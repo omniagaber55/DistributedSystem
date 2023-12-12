@@ -1,0 +1,13 @@
+H:\teaching\distributed\Lab4\PublisherSubscriber\PublisherSubscriber\bin\Debug\PublisherSubscriber.exe.config
+H:\teaching\distributed\Lab4\PublisherSubscriber\PublisherSubscriber\bin\Debug\PublisherSubscriber.exe
+H:\teaching\distributed\Lab4\PublisherSubscriber\PublisherSubscriber\bin\Debug\PublisherSubscriber.pdb
+H:\teaching\distributed\Lab4\PublisherSubscriber\PublisherSubscriber\obj\Debug\PublisherSubscriber.csprojResolveAssemblyReference.cache
+H:\teaching\distributed\Lab4\PublisherSubscriber\PublisherSubscriber\obj\Debug\PublisherSubscriber.exe
+H:\teaching\distributed\Lab4\PublisherSubscriber\PublisherSubscriber\obj\Debug\PublisherSubscriber.pdb
+C:\Users\Omnia\Downloads\PublisherSubscriber\PublisherSubscriber\bin\Debug\PublisherSubscriber.exe.config
+C:\Users\Omnia\Downloads\PublisherSubscriber\PublisherSubscriber\bin\Debug\PublisherSubscriber.exe
+C:\Users\Omnia\Downloads\PublisherSubscriber\PublisherSubscriber\bin\Debug\PublisherSubscriber.pdb
+C:\Users\Omnia\Downloads\PublisherSubscriber\PublisherSubscriber\obj\Debug\PublisherSubscriber.csproj.AssemblyReference.cache
+C:\Users\Omnia\Downloads\PublisherSubscriber\PublisherSubscriber\obj\Debug\PublisherSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\Omnia\Downloads\PublisherSubscriber\PublisherSubscriber\obj\Debug\PublisherSubscriber.exe
+C:\Users\Omnia\Downloads\PublisherSubscriber\PublisherSubscriber\obj\Debug\PublisherSubscriber.pdb

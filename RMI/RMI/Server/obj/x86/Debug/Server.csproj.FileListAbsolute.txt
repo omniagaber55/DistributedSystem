@@ -1,0 +1,61 @@
+C:\Users\Lenovo\Desktop\DS\RMI\Server\bin\Debug\Server.exe
+C:\Users\Lenovo\Desktop\DS\RMI\Server\bin\Debug\Server.pdb
+C:\Users\Lenovo\Desktop\DS\RMI\Server\bin\Debug\OperationaLibrary.dll
+C:\Users\Lenovo\Desktop\DS\RMI\Server\bin\Debug\OperationaLibrary.pdb
+C:\Users\Lenovo\Desktop\DS\RMI\Server\obj\x86\Debug\Server.Server.resources
+C:\Users\Lenovo\Desktop\DS\RMI\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DS\RMI\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\DS\RMI\Server\obj\x86\Debug\Server.exe
+C:\Users\Lenovo\Desktop\DS\RMI\Server\obj\x86\Debug\Server.pdb
+C:\Users\Lenovo\Desktop\DS\RMI\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\bin\Debug\Server.exe
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\bin\Debug\Server.pdb
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\bin\Debug\OperationaLibrary.dll
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\bin\Debug\OperationaLibrary.pdb
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\obj\x86\Debug\Server.Server.resources
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\obj\x86\Debug\Server.csproj.CopyComplete
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\obj\x86\Debug\Server.exe
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Server\obj\x86\Debug\Server.pdb
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\bin\Debug\Server.exe
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\bin\Debug\Server.pdb
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\bin\Debug\OperationaLibrary.dll
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\bin\Debug\OperationaLibrary.pdb
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\obj\x86\Debug\Server.Server.resources
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\obj\x86\Debug\Server.csproj.CopyComplete
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\obj\x86\Debug\Server.exe
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\Am (OLD)\Lab 3\RMI\Server\obj\x86\Debug\Server.pdb
+D:\fcs\RMI\Server\bin\Debug\Server.exe.config
+D:\fcs\RMI\Server\bin\Debug\Server.exe
+D:\fcs\RMI\Server\bin\Debug\Server.pdb
+D:\fcs\RMI\Server\bin\Debug\OperationaLibrary.dll
+D:\fcs\RMI\Server\bin\Debug\OperationaLibrary.pdb
+D:\fcs\RMI\Server\obj\x86\Debug\Server.csproj.AssemblyReference.cache
+D:\fcs\RMI\Server\obj\x86\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\fcs\RMI\Server\obj\x86\Debug\Server.Server.resources
+D:\fcs\RMI\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\fcs\RMI\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+D:\fcs\RMI\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+D:\fcs\RMI\Server\obj\x86\Debug\Server.csproj.CopyComplete
+D:\fcs\RMI\Server\obj\x86\Debug\Server.exe
+D:\fcs\RMI\Server\obj\x86\Debug\Server.pdb
+C:\Users\Omnia\Downloads\RMI\RMI\Server\bin\Debug\Server.exe.config
+C:\Users\Omnia\Downloads\RMI\RMI\Server\bin\Debug\Server.exe
+C:\Users\Omnia\Downloads\RMI\RMI\Server\bin\Debug\Server.pdb
+C:\Users\Omnia\Downloads\RMI\RMI\Server\bin\Debug\OperationaLibrary.dll
+C:\Users\Omnia\Downloads\RMI\RMI\Server\bin\Debug\OperationaLibrary.pdb
+C:\Users\Omnia\Downloads\RMI\RMI\Server\obj\x86\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Omnia\Downloads\RMI\RMI\Server\obj\x86\Debug\Server.Server.resources
+C:\Users\Omnia\Downloads\RMI\RMI\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Omnia\Downloads\RMI\RMI\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Omnia\Downloads\RMI\RMI\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Omnia\Downloads\RMI\RMI\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\Omnia\Downloads\RMI\RMI\Server\obj\x86\Debug\Server.exe
+C:\Users\Omnia\Downloads\RMI\RMI\Server\obj\x86\Debug\Server.pdb

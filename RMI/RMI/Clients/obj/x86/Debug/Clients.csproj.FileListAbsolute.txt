@@ -1,0 +1,36 @@
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\bin\Debug\Clients.exe
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\bin\Debug\Clients.pdb
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\bin\Debug\OperationaLibrary.dll
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\bin\Debug\OperationaLibrary.pdb
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\obj\x86\Debug\Clients.Client.resources
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\obj\x86\Debug\Clients.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\obj\x86\Debug\Clients.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\obj\x86\Debug\Clients.exe
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\obj\x86\Debug\Clients.pdb
+C:\Users\Lenovo\Desktop\DS\RMI\Clients\obj\x86\Debug\Clients.csprojResolveAssemblyReference.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\bin\Debug\Clients.exe
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\bin\Debug\Clients.pdb
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\bin\Debug\OperationaLibrary.dll
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\bin\Debug\OperationaLibrary.pdb
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\obj\x86\Debug\Clients.csprojAssemblyReference.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\obj\x86\Debug\Clients.Client.resources
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\obj\x86\Debug\Clients.Properties.Resources.resources
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\obj\x86\Debug\Clients.csproj.GenerateResource.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\obj\x86\Debug\Clients.csproj.CoreCompileInputs.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\obj\x86\Debug\Clients.csproj.CopyComplete
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\obj\x86\Debug\Clients.exe
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\Clients\obj\x86\Debug\Clients.pdb
+D:\fcs\RMI\Clients\bin\Debug\Clients.exe.config
+D:\fcs\RMI\Clients\bin\Debug\Clients.exe
+D:\fcs\RMI\Clients\bin\Debug\Clients.pdb
+D:\fcs\RMI\Clients\bin\Debug\OperationaLibrary.dll
+D:\fcs\RMI\Clients\bin\Debug\OperationaLibrary.pdb
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.csproj.AssemblyReference.cache
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.csproj.SuggestedBindingRedirects.cache
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.Client.resources
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.Properties.Resources.resources
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.csproj.GenerateResource.cache
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.csproj.CoreCompileInputs.cache
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.csproj.CopyComplete
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.exe
+D:\fcs\RMI\Clients\obj\x86\Debug\Clients.pdb

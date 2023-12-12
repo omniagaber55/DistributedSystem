@@ -1,0 +1,23 @@
+C:\Users\Lenovo\Desktop\DS\RMI\OperationaLibrary\bin\Debug\OperationaLibrary.dll
+C:\Users\Lenovo\Desktop\DS\RMI\OperationaLibrary\bin\Debug\OperationaLibrary.pdb
+C:\Users\Lenovo\Desktop\DS\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.dll
+C:\Users\Lenovo\Desktop\DS\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.pdb
+C:\Users\Lenovo\Desktop\DS\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.csprojResolveAssemblyReference.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\OperationaLibrary\bin\Debug\OperationaLibrary.dll
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\OperationaLibrary\bin\Debug\OperationaLibrary.pdb
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.csprojAssemblyReference.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.csproj.CoreCompileInputs.cache
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.dll
+F:\Teaching Sections\First Semester\Distributed (General + Credit)\AS (OLD)\Asmaa\DistributedSystemsMaterials\Week03\Code\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.pdb
+D:\fcs\RMI\OperationaLibrary\bin\Debug\OperationaLibrary.dll
+D:\fcs\RMI\OperationaLibrary\bin\Debug\OperationaLibrary.pdb
+D:\fcs\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.csproj.AssemblyReference.cache
+D:\fcs\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.csproj.CoreCompileInputs.cache
+D:\fcs\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.dll
+D:\fcs\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.pdb
+C:\Users\Omnia\Downloads\RMI\RMI\OperationaLibrary\bin\Debug\OperationaLibrary.dll
+C:\Users\Omnia\Downloads\RMI\RMI\OperationaLibrary\bin\Debug\OperationaLibrary.pdb
+C:\Users\Omnia\Downloads\RMI\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.csproj.AssemblyReference.cache
+C:\Users\Omnia\Downloads\RMI\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Omnia\Downloads\RMI\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.dll
+C:\Users\Omnia\Downloads\RMI\RMI\OperationaLibrary\obj\Debug\OperationaLibrary.pdb
